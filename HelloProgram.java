@@ -4,7 +4,7 @@ public class HelloProgram {
         System.out.println("Loop based execution-CICD demo");
 
         for(int i=0; i<50;i++){
-            System.out.print(i\n);
+            System.out.println(i);
             
         }
     }
